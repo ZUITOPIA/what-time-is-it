@@ -1,5 +1,5 @@
-import Home from "../components/Home"
+import Clock from "../components/Home"
 
 export default function Page() {
-  return <Home />
+  return <Clock />
 }
